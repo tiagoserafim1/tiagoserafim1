@@ -27,10 +27,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🐍 Snake animation
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoserafim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top)
+![Snake animation](https://github.com/tiagoseraffim1/tiagoseraffim1/blob/output/github-contribution-grid-snake.svg)
