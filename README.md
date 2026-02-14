@@ -29,4 +29,4 @@
 
 ## 🐍 Snake animation
 
-![Snake animation](https://github.com/tiagoseraffim1/tiagoseraffim1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
