@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff" />
 
-### 🚀 Estudante de TI | Futuro Dev & Data
-
-</div>
-
   💻 Estudante de TI | 📊 Futuro Dev & Data
 </p>
 
