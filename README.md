@@ -32,7 +32,4 @@
 ## 🎯 Objetivo
 
 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI, com foco em Programação e Análise de Dados.
-## 🎮 Pac-Man Contribution Game
-
-![Pacman](https://raw.githubusercontent.com/tiagoseraffim1/tiagoseraffim1/output/github-metrics.svg)
 
