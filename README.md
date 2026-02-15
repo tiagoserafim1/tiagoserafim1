@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=00FFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff&desc=Future%20Dev%20%7C%20Data%20%26%20Automation&descSize=18&descAlignY=65" />
 
   💻 Estudante de TI | 📊 Futuro Dev & Data
 </p>
