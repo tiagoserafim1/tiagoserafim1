@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:7928CA&height=200&section=header&text=Tiago%20Serafim&fontSize=40&fontColor=ffffff" />
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fon
+
   💻 Estudante de TI | 📊 Futuro Dev & Data
 </p>
 
