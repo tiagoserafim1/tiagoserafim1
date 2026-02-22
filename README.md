@@ -20,9 +20,8 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,idea" />
 </p>
-
 
 </div>
 
