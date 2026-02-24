@@ -33,9 +33,9 @@
 
 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI, com foco em Programação e Análise de Dados.
 
-:fire: Streak
+🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=true" />
 </p>
 
