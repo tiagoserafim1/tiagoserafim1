@@ -32,3 +32,10 @@
 ## 🎯 Objetivo
 
 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI, com foco em Programação e Análise de Dados.
+
+:fire: Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
