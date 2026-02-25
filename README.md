@@ -2,40 +2,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff" />
 
-  💻 Estudante de TI | 📊 Futuro Dev & Data
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-
-🎓 Ensino Médio Integrado ao Técnico em Manutenção e Suporte em Informática <br>
-🔎 Focado em Programação e Análise de Dados <br>
-📊 Atualmente estudando Java <br>
-🎯 Buscando minha primeira oportunidade na área de tecnologia <br>
-💻 Sempre buscando evoluir e aprender novas tecnologias
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,idea" />
-</p>
+### 💻 IT Student | 📊 Future Developer & Data Enthusiast
 
 </div>
 
 ---
 
-![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
+## 🧑‍💻 About Me
 
-## 🎯 Objetivo
+🎓 High School Integrated with Technical Degree in Computer Maintenance and Support  
+🔎 Focused on Programming and Data Analysis  
+📊 Currently studying Java  
+🎯 Seeking my first opportunity in the technology field  
+💻 Always learning and improving my technical skills  
 
-Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI, com foco em Programação e Análise de Dados.
+---
 
-## 🔥 Streak
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,idea" />
+</div>
+
+---
+
+## 🎯 Career Goal
+
+I am looking for my first opportunity as a Junior Developer or IT Intern, with a focus on Programming and Data Analysis.  
+My goal is to grow professionally, contribute to real-world projects, and continuously develop my technical and problem-solving skills.
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=true" />
-</p>
+</div>
+
+---
+
+![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
