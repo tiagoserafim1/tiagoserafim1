@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Tiago%20Serafim%20de%20Souza&fontSize=45&fontColor=ffffff" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0080&size=22&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tiago!;Future+Backend+Developer;Java+%7C+SQL+%7C+Python;Focused+on+Growth+and+Real+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Tiago!;Future+Backend+Developer;Java+%7C+SQL+%7C+Python;Focused+on+Growth+and+Real+Projects" />
 
-</div>
+<br><br>
 
 ### 💻 Software Development Student | Backend & Data
 
@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,idea" height="60" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=true" height="200" />
 </div>
 
 ---
