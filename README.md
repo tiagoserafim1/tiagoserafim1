@@ -62,6 +62,6 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer)
 
 </div>
