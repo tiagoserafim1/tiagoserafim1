@@ -42,9 +42,17 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagoserafim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoserafim1&layout=compact&langs_count=6&theme=tokyonight"/>
+
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=false&locale=pt_BR)
+
+</div>
 ---
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
