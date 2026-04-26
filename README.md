@@ -53,6 +53,7 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 ![GitHub Streak](https://streak-stats.demolab.com?user=tiagoserafim1&theme=tokyonight&hide_border=false&locale=pt_BR)
 
 </div>
+
 ---
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
