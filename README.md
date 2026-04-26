@@ -57,3 +57,11 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 ---
 
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=100&section=footer)
+
+</div>
