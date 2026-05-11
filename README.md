@@ -60,16 +60,16 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 
 ---
 
-## 📜 Certificações
+## 📜 Certifications
 
-| Certificação | Instituição | Status |
+| Certification | Institution | Status |
 |---|---|---|
-| 🐍 Linguagem de Programação Python | Fundação Bradesco | ✅ Concluído |
-| 🧠 Lógica de Programação | SENAI | ✅ Concluído |
-| 🖥️ IT Essentials | Cisco | ✅ Concluído |
-| ☕ Java Development | FIAP | 🔄 Em andamento |
-| 🌐 CCNA1 – Introdução a Redes | Cisco | 🔄 Em andamento |
-| 🔒 CyberOps Associate | Cisco | 🔄 Em andamento |
+| 🐍 Python Programming Language | Fundação Bradesco | ✅ Completed |
+| 🧠 Programming Logic | SENAI | ✅ Completed |
+| 🖥️ IT Essentials | Cisco | ✅ Completed |
+| ☕ Java Development | FIAP | 🔄 In Progress |
+| 🌐 CCNA1 – Introduction to Networks | Cisco | 🔄 In Progress |
+| 🔒 CyberOps Associate | Cisco | 🔄 In Progress |
 
 ---
 
