@@ -41,9 +41,6 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 
 ## 🔥 GitHub Streak
 
-
----
-
 ![Snake animation](https://github.com/tiagoserafim1/tiagoserafim1/blob/output/github-contribution-grid-snake.svg)
 
 ---
