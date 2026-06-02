@@ -49,10 +49,10 @@ My goal is to grow professionally, contribute to real-world projects, and contin
 
 | Certification | Institution | Status |
 |---|---|---|
+| ☕ Java Development | FIAP | ✅ Completed |
 | 🐍 Python Programming Language | Fundação Bradesco | ✅ Completed |
 | 🧠 Programming Logic | SENAI | ✅ Completed |
 | 🖥️ IT Essentials | Cisco | ✅ Completed |
-| ☕ Java Development | FIAP | 🔄 In Progress |
 | 🌐 CCNA1 – Introduction to Networks | Cisco | 🔄 In Progress |
 | 🔒 CyberOps Associate | Cisco | 🔄 In Progress |
 
